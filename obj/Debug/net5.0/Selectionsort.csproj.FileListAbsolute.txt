@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/Selectionsort/bin/Debug/net5.0/Selectionsort.deps.json
+/Users/hibba/Documents/GitHub/Selectionsort/bin/Debug/net5.0/Selectionsort.runtimeconfig.json
+/Users/hibba/Documents/GitHub/Selectionsort/bin/Debug/net5.0/Selectionsort.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/Selectionsort/bin/Debug/net5.0/Selectionsort.dll
+/Users/hibba/Documents/GitHub/Selectionsort/bin/Debug/net5.0/ref/Selectionsort.dll
+/Users/hibba/Documents/GitHub/Selectionsort/bin/Debug/net5.0/Selectionsort.pdb
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/Selectionsort.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/Selectionsort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/Selectionsort.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/Selectionsort.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/Selectionsort.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/Selectionsort.dll
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/ref/Selectionsort.dll
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/Selectionsort.pdb
+/Users/hibba/Documents/GitHub/Selectionsort/obj/Debug/net5.0/Selectionsort.genruntimeconfig.cache
